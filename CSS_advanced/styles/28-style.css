@@ -248,7 +248,7 @@ ul.row {
 }
 .header-logo a{
   display: var(--header-logo-link-display);
-  position: link var(--header-logo-link-position);
+  position: var(--header-logo-link-position);
   top: var(--header-logo-link-top);
   left: var(--header-logo-link-left);
 }
