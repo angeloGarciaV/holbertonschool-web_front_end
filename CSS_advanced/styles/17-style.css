@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 .visually-hidden {
   display: none;
 }
-.section{
+.section {
   padding: var(--section-padding);
 }
 .section-header {
@@ -99,6 +99,6 @@ h1, h2, h3, h4, h5, h6 {
 .card-category, .section-tagline {
   color: var(--color-primary);
 }
-footer{
+.footer {
   padding: var(--footer-padding);
 }
