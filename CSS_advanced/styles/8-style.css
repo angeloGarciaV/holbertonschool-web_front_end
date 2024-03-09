@@ -39,8 +39,3 @@ h1, h2, h3, h4, h5, h6 {
 .card-category, .section-tagline {
   color: var(--color-primary);
 }
-
-/*Based on styles/7-style.css:
-
-Targeting root, create the following custom properties:
-Set the minimum height of line boxes in the body to line-height-base*/
